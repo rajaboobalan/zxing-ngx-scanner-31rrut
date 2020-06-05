@@ -141,5 +141,8 @@
       }
     }
   },
-  "defaultProject": "zxing-scanner-demo"
+  "defaultProject": "zxing-scanner-demo",
+  "cli": {
+    "analytics": "90442d07-0524-42cc-980b-7935732df8da"
+  }
 }

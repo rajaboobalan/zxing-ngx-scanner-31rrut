@@ -42,6 +42,7 @@ export class AppComponent {
   }
 
   onCodeResult(resultString: string) {
+    console.log(resultString);
     this.qrResultString = resultString;
   }
 
